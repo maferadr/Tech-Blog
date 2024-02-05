@@ -1,0 +1,1 @@
+// Any html structure than can work as a connection part
